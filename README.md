@@ -6,11 +6,6 @@
 
 <br>
 
-<p align="center">
-Visualização
-
-  <img src="./assets/boraCodar1.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
